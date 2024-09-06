@@ -1,1 +1,1 @@
-# wix-embed-site
+# whs-quiz-bowl
